@@ -19,7 +19,8 @@ Explica la mejora que estas sugiriendo y por qué sería beneficiosa
 **Contexto adicional**
 Añade cualquier otro contexto o capturas de pantalla sobre la sugerencia de mejora aquí
 
-**Checklists**
+**Checklist**
+Antes de enviar la sugerencia de mejora, por favor asegúrese de completar los siguientes pasos:
 - [ ] He verificado que esta sugerencia de mejora no se ha reportado anteriormente.
 - [ ] He proporcionado una descripción clara y concisa del comportamiento actual.
 - [ ] He explicado claramente la mejora sugerida y sus beneficios.
