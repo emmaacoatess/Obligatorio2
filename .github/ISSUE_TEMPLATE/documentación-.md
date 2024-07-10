@@ -20,6 +20,7 @@ Cualquier sugerencia para solucionar el problema o mejorar la documentación
 Añade cualquier otro contexto relevante sobre el problema aquí, incluyendo enlaces a secciones relevantes o referencias externas
 
 **Checklist**
+Antes de enviar el reporte, por favor asegúrese de completar los siguientes pasos:
 - [ ] He verificado que este problema o sugerencia no se ha reportado anteriormente.
 - [ ] He proporcionado una descripción clara y concisa del problema o mejora.
 - [ ] He especificado la ubicación exacta en la documentación donde se encuentra el problema o mejora.
