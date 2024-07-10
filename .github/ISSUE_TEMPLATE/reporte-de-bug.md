@@ -36,3 +36,13 @@ Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
 **Contexto adicional**
 Agregue aquí cualquier otro contexto sobre el problema.
+
+**Checklist**
+Antes de enviar el reporte de bug, por favor asegúrese de completar los siguientes pasos:
+- [ ] He verificado que este bug no se ha reportado anteriormente.
+- [ ] He proporcionado una descripción clara y concisa del bug.
+- [ ] He proporcionado los pasos para reproducir el comportamiento.
+- [ ] He descrito el comportamiento esperado.
+- [ ] He incluido capturas de pantalla relevantes, si aplica.
+- [ ] He proporcionado información sobre mi dispositivo (SO, navegador, versión).
+- [ ] He añadido cualquier contexto adicional relevante, si aplica.
