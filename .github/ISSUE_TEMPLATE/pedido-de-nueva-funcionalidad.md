@@ -20,6 +20,7 @@ Describe claramente cualquier solución o característica alternativa que haya c
 Agregue aquí cualquier otro contexto o capturas de pantalla sobre la solicitud de función.
 
 **Checklist**
+Antes de enviar la solicitud de nueva funcionalidad, por favor asegúrese de completar los siguientes pasos:
 - [ ] He verificado que esta solicitud de nueva funcionalidad no se ha reportado anteriormente.
 - [ ] He proporcionado una descripción clara y concisa del problema relacionado.
 - [ ] He descrito la solución deseada de manera clara y concisa.
