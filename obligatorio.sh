@@ -29,7 +29,7 @@ listarUsuarios(){
 
 altaUsuario(){
 	#pide los datos del nuevo usuario
-	echo "Ingrese nuevo usuario"
+	echo "Ingrese usuario"
 	read nuevoUsuario
 	echo "Ingrese contrasenia"
 	read nuevaContrasenia
