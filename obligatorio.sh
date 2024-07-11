@@ -59,7 +59,7 @@ altaUsuario(){
 letraI=""
 letraInicio(){
 #se pide la letra de inicio y se la muestra al usuario
-	echo "ingrese letra inicial"
+	echo "ingrese lerta inicial"
 	read letraI
 	echo "la letra ingresada es $letraI"
 }
