@@ -143,7 +143,6 @@ ingresarVocal(){
 
 
 diccionarioVocal(){
-	grep -ia "[$vocal]" /home/alumno/Escritorio/diccionario.txt
 }
 #diccionarioVocal
 
